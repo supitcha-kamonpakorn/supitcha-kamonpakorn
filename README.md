@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 <h3 align="left">📊 Data Analyst | Turning data into insights</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/supitcha-kamonpakorn-a15b99339/">
+  <a href="https://www.linkedin.com/in/supitcha-kamonpakorn">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:supitcha.kamo@gmail.com">
