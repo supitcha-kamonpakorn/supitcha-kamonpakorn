@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! 
 
 <h1 align="left">Hi 👋, I'm Supitcha Kamonpakorn</h1>
-<h3 align="left">📊 Data Analyst | Turning data into insights</h3>
+<h3 align="left">📊 Data Enthusiast | Turning data into insights</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/supitcha-kamonpakorn">
