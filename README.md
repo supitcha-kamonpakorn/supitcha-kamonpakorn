@@ -1,4 +1,4 @@
-# 😃 Supitcha Kamonpakorn
+# 😃 Supitcha.K
 Welcome to my GitHub profile! 
 
 <h1 align="left">Hi 👋, I'm Supitcha Kamonpakorn</h1>
